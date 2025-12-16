@@ -3,3 +3,5 @@ broadcast-join
 cache-persist
 repartition-coalesce
 tuning
+partition pruning dynamic/static
+ADE -(adaptive query execution)
